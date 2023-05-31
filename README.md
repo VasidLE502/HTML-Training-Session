@@ -74,4 +74,9 @@ Learning HTML
     <td>Activity-12</td>
     <td>HTML Entities and HTML Comments</td>
   </tr>
+  <tr>
+    <td>13</td>
+    <td>Activity-13</td>
+    <td>Create Table to Display your Team Members</td>
+  </tr>
   
