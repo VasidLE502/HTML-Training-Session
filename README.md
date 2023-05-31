@@ -69,3 +69,9 @@ Learning HTML
     <td>Activity-12</td>
     <td>HTML Entities and HTML Comments</td>
   </tr>
+   <tr>
+    <td>12</td>
+    <td>Activity-12</td>
+    <td>HTML Entities and HTML Comments</td>
+  </tr>
+  
