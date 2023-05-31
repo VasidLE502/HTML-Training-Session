@@ -59,11 +59,8 @@ Learning HTML
     <td>Activity-10</td>
     <td>Background Image for Body</td>
   </tr>
-   <tr>
+  <tr>
     <td>11</td>
     <td>Activity-11</td>
     <td>Anchor Tag</td>
   </tr>
-
-  
-  
